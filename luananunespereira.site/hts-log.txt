@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Dec 2021 10:42:30 at https://luananunespereira.site/pv/?ref=Y61642123K&hsrc=VHV0MjIzNQ%3D%3D +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" -Y https://luananunespereira.site/pv/?ref=Y61642123K&hsrc=VHV0MjIzNQ%3D%3D -O1 "C:\Meus Sites\vsc3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:42:45	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://luananunespereira.site/pv/?ref=Y61642123K&hsrc=VHV0MjIzNQ%3D%3D)
+10:42:46	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://luananunespereira.site/pv/?ref=Y61642123K&hsrc=VHV0MjIzNQ%3D%3D)
+10:43:00	Error: 	"Not Found" (404) at link https://luananunespereira.site/pv/c (from https://connect.facebook.net/en_US/fbevents.js)
+10:43:00	Error: 	"Not Found" (404) at link https://luananunespereira.site/pv/b (from https://connect.facebook.net/en_US/fbevents.js)
+10:43:00	Error: 	"Not Found" (404) at link https://luananunespereira.site/pv/POST (from https://connect.facebook.net/en_US/fbevents.js)
+10:43:01	Error: 	"Not Found" (404) at link https://pay.hotmart.com/2zj6oc7wu.png (from https://pay.hotmart.com/K59415861B?off=qqbj5n5c&checkoutMode=10&bid=1638452557529)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 seconds : 53 links scanned, 41 files written (13324920 bytes overall) [3867198 bytes received at 124748 bytes/sec], 12914618 bytes transferred using HTTP compression in 41 files, ratio 26%, 1.8 requests per connection
+(6 errors, 0 warnings, 0 messages)
